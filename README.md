@@ -4,8 +4,6 @@
 
 <em><h5 align="center">(Formalmente Helios Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/workflow/status/dscalzi/HeliosLauncher/Build.svg?style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
-
 <p align="center">Launcher para ingresar a MangoDeath2 con Mods.</p>
 
 ![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
