@@ -41,7 +41,7 @@ You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLaunche
 
 If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/releases) tab, select the installer for your system.
 
-| Platform | File |
+| Plataforma | Archivo |
 | -------- | ---- |
 | Windows x64 | `Helios-Launcher-setup-VERSION.exe` |
 | macOS x64 | `Helios-Launcher-setup-VERSION-x64.dmg` |
@@ -49,19 +49,18 @@ If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/re
 | Linux x64 | `Helios-Launcher-setup-VERSION.AppImage` |
 
 
-## Resources
+## Recursos
 
 * [Wiki][wiki]
 * [Nebula (Create Distribution.json)][nebula]
 * [v2 Rewrite Branch (Inactive)][v2branch]
 
-The best way to contact the developers is on Discord.
 
 [![discord](https://discordapp.com/api/guilds/211524927831015424/embed.png?style=banner3)][discord]
 
 ---
 
-### See you ingame.
+### Nos vemos en el juego..
 
 
 [nodejs]: https://nodejs.org/en/ 'Node.js'
