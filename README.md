@@ -2,21 +2,21 @@
 
 <h1 align="center">MangoDeath Launcher</h1>
 
-<em><h5 align="center">(formerly Electron Launcher)</h5></em>
+<em><h5 align="center">(Formalmente Helios Launcher)</h5></em>
 
 [<p align="center"><img src="https://img.shields.io/github/workflow/status/dscalzi/HeliosLauncher/Build.svg?style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
 
-<p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
+<p align="center">Launcher para ingresar a MangoDeath2, donde se encuentra con Mods.</p>
 
 ![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
 ![Screenshot 2](https://i.imgur.com/x3B34n1.png)
 
-## Features
+## Características
 
-* 🔒 Full account management.
-  * Add multiple accounts and easily switch between them.
-  * Microsoft (OAuth 2.0) + Mojang (Yggdrasil) authentication fully supported.
-  * Credentials are never stored and transmitted directly to Mojang.
+* 🔒 Gestión completa de la cuenta.
+  * Añadir varias cuentas y cambiar fácilmente entre ellas.
+  * Autenticación de Microsoft (OAuth 2.0) + Mojang (Yggdrasil) totalmente compatible.
+  * Las credenciales nunca se almacenan ni se transmiten directamente a Mojang.
 * 📂 Efficient asset management.
   * Receive client updates as soon as we release them.
   * Files are validated before launch. Corrupt or incorrect files will be redownloaded.
