@@ -1,0 +1,7 @@
+
+node_modules/.bin/asar.cmd
+node_modules/.bin/acorn
+*.ps1
+*.cmd
+node_modules/.bin/asar
+node_modules/.bin/electron-builder
