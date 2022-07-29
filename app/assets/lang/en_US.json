@@ -1,22 +1,22 @@
 {
     "html": {
-        "avatarOverlay": "Edit"
+        "avatarOverlay": "Editar"
     },
     "js": {
         "login": {
             "error": {
-                "invalidValue": "* Invalid Value",
-                "requiredValue": "* Required",
+                "invalidValue": "* Valor invalido",
+                "requiredValue": "* Requerido",
                 "userMigrated": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "You've attempted to login with a migrated account. Try again using the account email as the username."
+                    "title": "Error al loguearse:<br>Credenciales invalidas",
+                    "desc": "Has intentado iniciar sesión con una cuenta migrada. Inténtalo de nuevo utilizando el correo electrónico de la cuenta como nombre de usuario."
                 },
                 "invalidCredentials": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "The email or password you've entered is incorrect. Please try again."
+                    "title": "Error al loguearse:<br>Credenciales invalidas",
+                    "desc": "El correo electrónico o la contraseña que has introducido son incorrectos. Por favor, inténtalo de nuevo."
                 },
                 "rateLimit": {
-                    "title": "Error During Login:<br>Too Many Attempts",
+                    "title": "Error durante el inicio de sesión:<br>Demasiados intentos",
                     "desc": "There have been too many login attempts with this account recently. Please try again later."
                 },
                 "noInternet": {
@@ -42,7 +42,7 @@
         },
         "landing": {
             "launch": {
-                "pleaseWait": "Please wait.."
+                "pleaseWait": "Por favor espera.."
             }
         }
     }
